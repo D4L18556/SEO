@@ -1,1 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://d4l18556.github.io/SEO/sitemap.xml
 
